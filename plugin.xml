@@ -6,11 +6,11 @@
 
   <name>AcuantMobileSDK</name>
 
-  <!-- <engines>
+  <engines>
     <engine name="cordova" version=">=6.3.1"/>
-  </engines> -->
+  </engines>
 
-  <!-- <asset src="www/AcuantMobileSDK.js" target="AcuantMobileSDK.js"/> -->
+  <asset src="www/AcuantMobileSDK.js" target="AcuantMobileSDK.js"/>
 
   <js-module src="www/AcuantMobileSDK.js" name="AcuantMobileSDK">
     <clobbers target="AcuantMobileSDK" />
